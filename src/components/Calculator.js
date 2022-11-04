@@ -35,7 +35,7 @@ class Calculator extends Component {
             <button onClick={this.clickEvent} className="btn" name="AC" type="submit">AC</button>
             <button onClick={this.clickEvent} className="btn" name="+" type="submit">-/+</button>
             <button onClick={this.clickEvent} className="btn" name="%" type="submit">%</button>
-            <button onClick={this.clickEvent} className="btn-o" type="submit">-</button>
+            <button onClick={this.clickEvent} className="btn-o" name="÷" type="submit">÷</button>
           </div>
           <div className="row">
             <button onClick={this.clickEvent} className="btn" name="7" type="submit">7</button>
