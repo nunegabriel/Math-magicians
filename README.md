@@ -8,6 +8,10 @@
 - JS
 - React
 
+## Live Demo
+
+https://math-calcus.netlify.app/
+
 ## Get Started
 
 To get the content of this project locally you need to run the following commands in your terminal.
